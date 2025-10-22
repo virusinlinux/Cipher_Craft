@@ -1,0 +1,2 @@
+# Cipher_Craft
+An application to encrypt and decrypt messages using various methods like Morse code, secured with a 4-digit key. It also features a Gemini-powered story generator to create encrypted narratives.
